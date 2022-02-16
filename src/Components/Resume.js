@@ -22,13 +22,13 @@ function Resume() {
                         year={'Oct 2020 - Janv 2021'} 
                         title={'Développeur Front-End'}
                         subTitle={'Bond Inbox'}
-                        text={'BAP - Bourse au projet IIM , Réalisation Landing Page Bond Inbox, en collaboration avec des chefs de projets issus de différents axes: création design , Communication digitale et E-Business et enfin développement web. '} 
+                        text={'BAP - Bourse au projet IIM , Réalisation Landing Page Bond Inbox, en collaboration avec des chefs de projets issus de différents axes: création design , Communication digitale et E-Business et enfin développement web. Site Développer en HTML/CSS/JS responsive design et utilisation de la librairie GSAP pour les animations'} 
                     />
                     <ResumeItem 
                         year={'Fev 2021 - Mars 2021'} 
                         title={'Développeur Front-End'}
                         subTitle={'Earlystay'}
-                        text={'BAP - Réalisation d un site web de A à Z, de la création de Wireframes et Maquette, au développement du site web avec les technos suivante, Next.js et React.js pour le front, accompagné de Node.Js pour la partie Back-End. Site développé en Collaboration de 3 autres étudiant de lIIM. '} 
+                        text={'BAP - Réalisation d un site web de A à Z, de la création de Wireframes et Maquette, au développement du site web avec les technos suivantes, Next.js et React.js pour le front, accompagné de Node. Js pour la partie Back-End. Site développé en Collaboration de 3 autres étudiant de lIIM.'} 
                     />
                     <ResumeItem 
                         year={'Mai 2021 - Juil 2021'} 
@@ -40,13 +40,13 @@ function Resume() {
                         year={'Mars 2021 - Nov 2021'} 
                         title={'Graphiste'}
                         subTitle={'BDE NOVA'}
-                        text={'Graphiste, dans le pôle communication : Création de visuel sur Photoshop/Illustrator, pour la promotions des différents évènements (soirée d inté, Gala, Pôle à un Incroyables Talents, Nova on Air), Partage des publications sur les réseaux Facebook/Instagram  '} 
+                        text={'Graphiste, dans le pôle communication : Création de visuel sur Photoshop/Illustrator, pour les promotions des différents évènements (soirée d inté, Gala, Pôle à un Incroyables Talents, Nova on Air), Partage des publications sur les réseaux Facebook/Instagram  '} 
                     />
                      <ResumeItem 
                         year={'Sept 2021 - Aujourd hui'} 
                         title={'Développeur Web'}
                         subTitle={'Alternance chez ASSERCAR'}
-                        text={'Collecter les besoins utilisateur ou client, rédiger l ensemble de la documentation associée au projet (Cahier des charges, Descriptions techniques et fonctionnelles, ….). Former les utilisateur au fonctionnement du site web, Coordonner les actions des prestataires intervenant sur les projets.'}
+                        text={'Collecter les besoins utilisateur ou client, rédiger l ensemble de la documentation associée au projet (Cahier des charges, Descriptions techniques et fonctionnelles, ….). Former les utilisateurs au fonctionnement du site web, Coordonner les actions des prestataires intervenant sur les projets.'}
                        
                     />
                 </div>
@@ -58,7 +58,7 @@ function Resume() {
                         year={'2019 - 2022'} 
                         title={'Bachelor Chef de projet digital, Développement Web'}
                         subTitle={'IIM, Institut de l Internet et du multimédia, Pôle Léonard De Vinci'}
-                        text={'Experts techniques ayant des qualités d’analyse, de travail d’équipe et capables d’évoluer au rythme des technologies. Découverte des langages du développement web, Front-End, Back-End et également Mobile. Bourse au projet, Formation Softs Skills et semaines transerverses '} 
+                        text={'Experts techniques ayant des qualités d’analyse, de travail d’équipe et capables d’évoluer au rythme des technologies. Découverte des langages du développement web, Front-End, Back-End et également Mobile. Bourse au projet, Formation Softs Skills et semaines transerverses/ '} 
                     />
 
                 </div>

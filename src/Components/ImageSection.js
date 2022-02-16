@@ -12,8 +12,9 @@ function ImageSection() {
             <div className="right-content">
                 <h4>Je suis <span>Axel Zidane</span></h4>
                 <p className="paragraph">
-                   Etudiant en 3ème année de Bachelor en développement web Chef de projet Digital. Acutellement en Alternance chez ASSERCAR en tant que UX/UI Designer 
-                   et développeur Front-End, je m'occupe de la refonte complète du site web (la partie public). Pour une durée de un an (août 2022). 
+                Étudiant en 3ème année de Bachelor en développement web Chef de projet Digital. Actuellement en Alternance chez ASSERCAR en tant qu’UX/UI Designer et développeur Front-End,
+                 je m’occupe de la refonte complète du site web (la partie publique). Pour une durée d’un an (août 2022).
+
                     
                 </p>
                 <div className="about-info">
@@ -34,7 +35,7 @@ function ImageSection() {
                         <p>: Etudiant A3 Développement Web</p>
                     </div>
                 </div>
-                <PrimaryButton title={'Download Cv'}  />
+                <a href="https://www.google.fr/"> <PrimaryButton title={'Voir CV'} /></a>  
             </div>
         </ImageSectionStyled>
     )

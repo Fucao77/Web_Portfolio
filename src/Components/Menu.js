@@ -1,7 +1,8 @@
 import React from 'react'
 import styled from 'styled-components';
-import GitHub from '@material-ui/icons/GitHub';
-import Pinterest from '@material-ui/icons/Pinterest';
+// import GitHub from '@material-ui/icons/GitHub';
+// import WebIcon from '@material-ui/icons/Web';
+import LanguageIcon from '@material-ui/icons/Language';
 
 function Menu({menuItem}) {
     return (
@@ -15,14 +16,14 @@ function Menu({menuItem}) {
                                 <ul>
                                     <li>
                                         <a href={item.link1}>
-                                            <GitHub />
+                                            <LanguageIcon />
                                         </a>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <a href={item.link2}>
-                                            <Pinterest />
+                                            <WebIcon />
                                         </a>
-                                    </li>
+                                    </li> */}
                                 </ul>
                             </div>
                             <h6>{item.title}</h6>

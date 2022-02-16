@@ -11,10 +11,10 @@ function ReviewsSetion() {
             <InnerLayout>
                 <div className="reviews">
                     <ReviewItem 
-                        text={'Le sport - pratique sportive régulière adepte des sports de glisse, skate, surf, snow'} 
+                        text={'Sport, Sport Extrême, Voyage, Technologie '} 
                     />
                     <ReviewItem 
-                        text={'Le cinéma, le graphisme, la vidéo et la photo'} 
+                        text={'Le cinéma, le graphisme, la vidéo et la photo, Jeux Vidéo'} 
                     />
                     
                 </div>
