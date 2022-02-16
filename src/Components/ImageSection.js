@@ -35,7 +35,7 @@ function ImageSection() {
                         <p>: Etudiant A3 Développement Web</p>
                     </div>
                 </div>
-                <a href="https://www.google.fr/"> <PrimaryButton title={'Voir CV'} /></a>  
+                <a href="https://drive.google.com/file/d/1iBI8xsf58TJarDcIpTFvHLYvon7eHdvj/view?usp=sharing"> <PrimaryButton title={'Voir CV'} /></a>  
             </div>
         </ImageSectionStyled>
     )
