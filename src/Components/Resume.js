@@ -51,14 +51,24 @@ function Resume() {
                     />
                 </div>
                 <div className="small-title u-small-title-margin">
-                    <SmallTitle icon={school} title={'Formation'} />
+                    <SmallTitle icon={school} title={'Diplômes'} />
                 </div>
+                <div className="resume-content ">
+                    <ResumeItem 
+                        year={'2022 - 2024'} 
+                        title={'Master Management de la Transformation Digitale, Double Diplôme IIM/ESILV'}
+                        subTitle={'IIM, Institut de l Internet et du multimédia, Pôle Léonard De Vinci'}
+                        text={'la formation sur un socle de compétences en gestion de produit et sur l’agilité nécéssaire à mener des changements en continu, puis de se spécialiser dans un domaine de l’évolution digitale : orientation nouvelles technologies avec la spécialisation « IA et Data Management », orientation accompagnement des entreprises avec la spécialisation « Conduite du changement et Innovation ». '} 
+                    />
+                    <br></br>
+                </div>
+
                 <div className="resume-content ">
                     <ResumeItem 
                         year={'2019 - 2022'} 
                         title={'Bachelor Chef de projet digital, Développement Web'}
                         subTitle={'IIM, Institut de l Internet et du multimédia, Pôle Léonard De Vinci'}
-                        text={'Experts techniques ayant des qualités d’analyse, de travail d’équipe et capables d’évoluer au rythme des technologies. Découverte des langages du développement web, Front-End, Back-End et également Mobile. Bourse au projet, Formation Softs Skills et semaines transerverses/ '} 
+                        text={'Experts techniques ayant des qualités d’analyse, de travail d’équipe et capables d’évoluer au rythme des technologies. Découverte des langages du développement web, Front-End, Back-End et également Mobile. Bourse au projet, Formation Softs Skills et semaines transerverses(Projets à réaliser sur 4 jours, avec des étudiants issus des 3 écoles IIM/ESILV/EMLV ).'} 
                     />
 
                 </div>
