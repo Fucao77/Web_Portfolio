@@ -12,7 +12,7 @@ function HomePage() {
                 <Particle />
             </div>
             <div className="typography">
-                <h1>Axel Zidane <span>Product Owner</span></h1>
+                <h1>Axel Zidane <span>Chef de projet</span></h1>
                 <p>
                     Actuellement en alternance jusqu'en aout 2022, en tant qu'UX/UI Designer et Développeur Front-End chez ASSERCAR
                 </p>
