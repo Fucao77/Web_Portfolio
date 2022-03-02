@@ -28,7 +28,7 @@ function ServicesSection() {
                     <ServiceCard 
                         image={staffnova} 
                         title={'Membre Staff BDE NOVA'} 
-                        paragraph={'Membre du staff lors des events comme par exemple la soirée d intégration ou j occuper le poste de Barman, également le gala ou j occuper la place de responsable des table VIP .'}
+                        paragraph={'Membre du staff lors des events comme par exemple la soirée d intégration ou j occuper le poste de Barman, également le gala ou j occuper la place de responsable des tables VIP .'}
                     />
                 </div>
             </ServicesSectionStyled>
