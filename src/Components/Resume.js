@@ -43,10 +43,17 @@ function Resume() {
                         text={'Graphiste, dans le pôle communication : Création de visuel sur Photoshop/Illustrator, pour les promotions des différents évènements (soirée d inté, Gala, Pôle à un Incroyables Talents, Nova on Air), Partage des publications sur les réseaux Facebook/Instagram  '} 
                     />
                      <ResumeItem 
-                        year={'Sept 2021 - Aujourd hui'} 
+                        year={'Sept 2021 - Août 2022'} 
                         title={'Développeur Web'}
                         subTitle={'Alternance chez ASSERCAR'}
                         text={'Collecter les besoins utilisateur ou client, rédiger l ensemble de la documentation associée au projet (Cahier des charges, Descriptions techniques et fonctionnelles, ….). Former les utilisateurs au fonctionnement du site web, Coordonner les actions des prestataires intervenant sur les projets.'}
+                       
+                    />
+                    <ResumeItem 
+                        year={'Sept 2022 - Today'} 
+                        title={'Chef de projet en Pilote Outils et Process'}
+                        subTitle={'Alternance chez Free - Groupe Illiad'}
+                        text={'Développer des outils spécifiques, Elaborer, mettre en oeuvre et suivre des plan d actions correctifs, Identifier et formaliser des besoins outils, Projet IA, Elaborer et mettre en place des indicateurs de suivi, Identifier et formaliser des besoins outils, Supervisation des équipes'}
                        
                     />
                 </div>

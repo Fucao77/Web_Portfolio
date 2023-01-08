@@ -14,7 +14,7 @@ function HomePage() {
             <div className="typography">
                 <h1>Axel Zidane <span>Chef de projet</span></h1>
                 <p>
-                    Actuellement en alternance jusqu'en aout 2022, en tant qu'UX/UI Designer et Développeur Front-End chez ASSERCAR
+                    Actuellement en alternance jusqu'en août 2024, en tant que Chef de Projet en Pilote Outils et Process chez Free
                 </p>
                 <div className="icons">
                     <a href="https://www.linkedin.com/in/axel-zidane-5a1a3b1a1/" className="icon i-Linkedin">

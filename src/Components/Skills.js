@@ -42,9 +42,14 @@ function Skills() {
                             text={'70%'}
                         />
                          <ProgressBar 
-                            title={'PHP'}
-                            width={'60%'}
-                            text={'60%'}
+                            title={'PHP/MYSQL'}
+                            width={'70%'}
+                            text={'70%'}
+                        />
+                         <ProgressBar 
+                            title={'Méthode Agile/Scrum'}
+                            width={'95%'}
+                            text={'95%'}
                         /> 
                     </div>
                 </InnerLayout>
