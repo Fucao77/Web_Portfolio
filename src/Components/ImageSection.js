@@ -12,8 +12,8 @@ function ImageSection() {
             <div className="right-content">
                 <h4>Je suis <span>Axel Zidane</span></h4>
                 <p className="paragraph">
-                Étudiant en 3ème année de Bachelor en développement web Chef de projet Digital. Actuellement en Alternance chez ASSERCAR en tant qu’UX/UI Designer et développeur Front-End,
-                 je m’occupe de la refonte complète du site web (la partie publique). Pour une durée d’un an (août 2022).
+                Étudiant en 4ème année en Master Management de la Transformation Digital - Big DATA & Interlligence Artificielle. Actuellement en Alternance chez FREE ent tant que chef de projet en Pilote Outils et Process.
+                Pour une durée de 2 ans (août 2024).
 
                     
                 </p>
@@ -32,7 +32,7 @@ function ImageSection() {
                         <p>: Français </p>
                         <p>: Français, Anglais, Espagnol </p>
                         <p>: La Garennes-Colombes - 92250</p>
-                        <p>: Etudiant A3 Développement Web</p>
+                        <p>: Etudiant A4 Management Transformation Digital - IA </p>
                     </div>
                 </div>
                 <a href="https://drive.google.com/file/d/1iBI8xsf58TJarDcIpTFvHLYvon7eHdvj/view?usp=sharing"> <PrimaryButton title={'Voir CV'} /></a>  

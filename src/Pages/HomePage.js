@@ -10,7 +10,7 @@ function HomePage() {
         <HomePageStyled>
             <div className="particle-con">
                 <Particle />
-            </div>
+            </div> 
             <div className="typography">
                 <h1>Axel Zidane <span>Chef de projet</span></h1>
                 <p>
